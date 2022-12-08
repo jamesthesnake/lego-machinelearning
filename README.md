@@ -1,6 +1,6 @@
 # Awesome LEGO Machine Learning
 A curated list of resources dedicated to Machine Learning applications to LEGO bricks.
-
+#parts
 ## Parts Classification
 ### Applications
 * [Brickognize [2022.12]](https://brickognize.com/) - Web application which recognizes any Lego part or set.
